@@ -29,3 +29,4 @@ Here is a script to never be locked in the shorts loop again. It redirects the s
     else document.addEventListener('DOMContentLoaded', checkShorts);
 })();
 ```
+- Save (File -> Save)
